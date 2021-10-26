@@ -1,0 +1,3 @@
+[submodule "FelicaRelay"]
+	path = FelicaRelay
+	url = https://github.com/OLIET2357/FelicaRelay
